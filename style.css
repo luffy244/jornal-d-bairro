@@ -1,0 +1,44 @@
+#lindea{
+    background-image: url("4.jpeg");
+    color:orangered;
+    padding: 25px;
+    text-align: center;
+    
+}
+#bairro{
+color:limegreen; 
+text-align: center;
+}
+#belo{
+
+    background-image: url("7.jpeg");
+    padding: 20px;
+}
+#sport{  
+
+    background-color: black;
+    color: green; 
+    padding: 8px; 
+    font-size: large;
+    
+}   
+#mais{
+
+    background-image: url("10.jpeg");
+    text-align: center;
+    color: aqua;
+    padding: 25px;
+}
+#WEB{
+    background-image: url("11.jpeg");
+    padding: 20px;
+    font-size: large;
+}
+
+#terminando{
+
+ background-color:black;
+ color: darkorange;
+ padding: 8px;
+ font-size: large;
+}

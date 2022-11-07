@@ -1,0 +1,52 @@
+#futebol{
+    color:darkblue;
+    background-image:url("9.jpeg");
+    text-align: center;
+    padding: 25px;
+      }
+   #CRUZEIRO{ 
+     background-image: url("6.jpeg");
+     padding: 25px;
+     text-align: center;
+     color:green;
+     }
+     #corinthians{
+
+        text-align: center;
+        background-color: black;
+        color: aliceblue;
+     }
+     #timao{
+
+        font-size: larger;
+     }
+     #gaviao{
+
+     text-align: center;
+     
+     }
+     #fut{
+
+        text-align: center;
+        background-color: black;
+        color: aliceblue;
+     }
+     #zeroo{
+
+     font-size: large;
+
+     }
+     #serie A{
+
+    background-color: black;
+    color: whitesmoke;
+    font-size:large;
+
+     }
+     #br{
+
+        color: whitesmoke;
+    text-align: center;    
+    background-color: black;
+
+     }
